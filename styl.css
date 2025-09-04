@@ -405,7 +405,7 @@ form textarea {
   margin-bottom: 15px;
   padding: 12px;
   border: 1px solid #ddd;
-  background: #ffffe6; /* اصفر فاتح */
+  background: #ffffe6;
   border-radius: 5px;
   font-size: 14px;
   width: 100%;
@@ -430,9 +430,7 @@ form button:hover {
   background: #555;
 }
 
-/* RESPONSIVE */
-@media (max-width: 768px) {
-  .container {
-    flex-direction: column;
-  }
+form button:hover {
+  background: #555;
 }
+
