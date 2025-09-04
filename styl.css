@@ -418,16 +418,12 @@ form textarea {
 form button {
   padding: 12px;
   border: none;
-  background: #333;
+  background: #e4b95b;
   color: #fff;
   font-size: 16px;
   border-radius: 5px;
   cursor: pointer;
   transition: background 0.3s;
-}
-
-form button:hover {
-  background: #555;
 }
 
 form button:hover {
