@@ -1,13 +1,22 @@
-# restaurant-website
-This is a simple responsive restaurant -website built using only HTML and CSS.  
-It showcases a modern design with a navigation bar, hero section, features, and footer.
+# 🍽️ Restaurant Website
 
-## 📁 Technologies Used
+A modern and responsive restaurant website built with **HTML & CSS**.  
+Designed to showcase menu, services, and contact information with a clean UI.  
 
-- HTML5
+## 🔗 Live Demo
+[View on Vercel](https://restaurant-website-blond-alpha.vercel.app/)
+
+## 📂 Repository
+[GitHub Repo](https://github.com/mohammedkhames792/restaurant-website)
+
+## ✨ Features
+- Fully responsive design (desktop & mobile)  
+- Elegant homepage with hero section  
+- Menu section with styled cards  
+- Contact form and footer information  
+
+## 🛠️ Tech Stack
+- HTML5  
 - CSS3
 
-## 🌐 Live Demo
-
-[Click here to view the live website](https://mohammedkhames792.github.io/restaurant-website/))
 
